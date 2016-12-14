@@ -1,0 +1,139 @@
+Initialize engine version: 5.4.0f3 (a6d8d714de6f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon(TM) R7 Graphics (ID=0x9874)
+    Vendor:   ATI
+    VRAM:     2294 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\rjuan\OneDrive\Documents\Unity\BAll\SuperMaria\FinalGame_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\rjuan\OneDrive\Documents\Unity\BAll\SuperMaria\FinalGame_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\rjuan\OneDrive\Documents\Unity\BAll\SuperMaria\FinalGame_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\rjuan\OneDrive\Documents\Unity\BAll\SuperMaria\FinalGame_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\rjuan\OneDrive\Documents\Unity\BAll\SuperMaria\FinalGame_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\rjuan\OneDrive\Documents\Unity\BAll\SuperMaria\FinalGame_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\rjuan\OneDrive\Documents\Unity\BAll\SuperMaria\FinalGame_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\rjuan\OneDrive\Documents\Unity\BAll\SuperMaria\FinalGame_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\rjuan\OneDrive\Documents\Unity\BAll\SuperMaria\FinalGame_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\rjuan\OneDrive\Documents\Unity\BAll\SuperMaria\FinalGame_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.118 seconds
+Platform assembly: C:\Users\rjuan\OneDrive\Documents\Unity\BAll\SuperMaria\FinalGame_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\rjuan\OneDrive\Documents\Unity\BAll\SuperMaria\FinalGame_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.806764 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.887914 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 693.
+Total: 1.502787 ms (FindLiveObjects: 0.077514 ms CreateObjectMapping: 0.031537 ms MarkObjects: 0.381871 ms  DeleteObjects: 1.009584 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at enemyBodyCollider.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at enemyBodyCollider.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at enemyBodyCollider.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at enemyBodyCollider.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at enemyBodyCollider.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at enemyBodyCollider.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at enemyBodyCollider.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at enemyBodyCollider.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The Object you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate[GameObject] (UnityEngine.GameObject original) [0x00000] in <filename unknown>:0 
+  at CupcakeController.FireEnemyBullet () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.293973 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 693.
+Total: 0.664950 ms (FindLiveObjects: 0.091193 ms CreateObjectMapping: 0.038757 ms MarkObjects: 0.521700 ms  DeleteObjects: 0.011019 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at enemyBodyCollider.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at enemyBodyCollider.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at enemyBodyCollider.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at enemyBodyCollider.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at enemyBodyCollider.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at enemyBodyCollider.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at enemyBodyCollider.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at enemyBodyCollider.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The Object you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate[GameObject] (UnityEngine.GameObject original) [0x00000] in <filename unknown>:0 
+  at CupcakeController.FireEnemyBullet () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.732290 ms
+
+Unloading 49 unused Assets to reduce memory usage. Loaded Objects now: 217.
+Total: 4.156508 ms (FindLiveObjects: 0.027737 ms CreateObjectMapping: 0.016338 ms MarkObjects: 0.272439 ms  DeleteObjects: 3.838472 ms)
+
