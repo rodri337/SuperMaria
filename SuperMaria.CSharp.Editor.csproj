@@ -115,7 +115,9 @@
     <Compile Include="Assets\Tiled2Unity\Scripts\Editor\TiledAssetPostProcessor.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\Tiled2Unity\Imported\Final_Level.tiled2unity.xml" />
     <None Include="Assets\Tiled2Unity\Imported\Level1-1.tiled2unity.xml" />
+    <None Include="Assets\Tiled2Unity\Imported\Level1-1New.tiled2unity.xml" />
     <None Include="Assets\Tiled2Unity\Imported\Level1.tiled2unity.xml" />
     <None Include="Assets\Tiled2Unity\Imported\_ReadMe.txt" />
     <None Include="Assets\Tiled2Unity\License.txt" />

@@ -41,5 +41,8 @@ public class EnemyDamage : MonoBehaviour {
         pushRB.velocity = Vector2.zero;
         pushRB.AddForce(pushDirection, ForceMode2D.Impulse);
     }
+
+
+
     
 }

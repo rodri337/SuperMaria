@@ -66,8 +66,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\CandyShooter.cs" />
+    <Compile Include="Assets\Scripts\ChangeScene.cs" />
+    <Compile Include="Assets\Scripts\CupcakeController.cs" />
     <Compile Include="Assets\Scripts\EnemyDamage.cs" />
     <Compile Include="Assets\Scripts\EnemyHeadController.cs" />
+    <Compile Include="Assets\Scripts\IceCreamBehavior.cs" />
     <Compile Include="Assets\Scripts\MagicController.cs" />
     <Compile Include="Assets\Scripts\MushroomController.cs" />
     <Compile Include="Assets\Scripts\PlayerHealth.cs" />
@@ -80,9 +84,14 @@
     <Compile Include="Assets\Tiled2Unity\Scripts\Runtime\TileAnimator.cs" />
     <Compile Include="Assets\Tiled2Unity\Scripts\Runtime\TiledInitialShaderProperties.cs" />
     <Compile Include="Assets\Tiled2Unity\Scripts\Runtime\TiledMap.cs" />
+    <Compile Include="Assets\cloudPortal.cs" />
+    <Compile Include="Assets\enemyBodyCollider.cs" />
+    <Compile Include="Assets\princePortal.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\Tiled2Unity\Imported\Final_Level.tiled2unity.xml" />
     <None Include="Assets\Tiled2Unity\Imported\Level1-1.tiled2unity.xml" />
+    <None Include="Assets\Tiled2Unity\Imported\Level1-1New.tiled2unity.xml" />
     <None Include="Assets\Tiled2Unity\Imported\Level1.tiled2unity.xml" />
     <None Include="Assets\Tiled2Unity\Imported\_ReadMe.txt" />
     <None Include="Assets\Tiled2Unity\License.txt" />

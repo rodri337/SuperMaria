@@ -29,7 +29,7 @@ public class PlayerHealth : MonoBehaviour {
         {
             return;
         }
-        currentHealth -= damage;
+        currentHealth = currentHealth - damage;
 
         if(currentHealth <= 0)
         {

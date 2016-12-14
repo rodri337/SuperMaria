@@ -83,6 +83,11 @@ public class playerController : MonoBehaviour {
             setCountText();
 
         }
+        if (other.gameObject.CompareTag("Enemy"))//if the top of the head of the enemy is hit
+        {
+            other.gameObject.SetActive(false);//the parent enemy dies
+            //Application.LoadLevel(Application.loadedLevel);
+        }
 
     }
 
@@ -108,4 +113,7 @@ public class playerController : MonoBehaviour {
             numLives = numLives = 1;
         }
     }
+
+
+
 }
